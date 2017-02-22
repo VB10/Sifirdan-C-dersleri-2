@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{CCDE5B46-28FE-4A62-986B-DA05F67EF2A7}|Default">
+  <MonoDevelop.Ide.ItemProperties.AyseLearn2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AyseLearn2/Program.cs">
+    <Files>
+      <File FileName="AyseLearn2/Program.cs" Line="20" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
